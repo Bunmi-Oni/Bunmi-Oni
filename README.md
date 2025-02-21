@@ -20,9 +20,14 @@ Here are some ideas to get you started:
 
 I'm a **Data Analyst** with a strong background in **Banking, Finance, and Financial Crime**, bringing over a decade of industry experience. My journey started as a **Retail Banking**, where I quickly progressed into **management and financial crime investigations**, honing my **problem-solving, leadership, and analytical skills**.  
 
-## 🔍 My Skills  
-- **SQL | Python | Power BI | Excel**  
-- **Data Cleaning | Visualization | Insights Generation**  
+## 🔧 Tech & Tools I Use  
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
+</p>
 
 📚 Completed the **Google Data Analytics Professional Certificate** & **Just IT Data Bootcamp** to solidify my technical expertise.  
 
